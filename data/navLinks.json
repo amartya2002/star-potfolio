@@ -1,0 +1,5 @@
+[
+  { "id": 1, "label": "Share", "icon": "fab fa-facebook-square", "href": "#pablo" },
+  { "id": 2, "label": "Tweet", "icon": "fab fa-twitter", "href": "#pablo" },
+  { "id": 3, "label": "Pin", "icon": "fab fa-pinterest", "href": "#pablo" }
+]
